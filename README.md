@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Getting Started with Gyphos-App_1.0v
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Also is made for bootcamps purposes. In this repo, you will find a gif's search engine app.
+From Acamica-Bootcamp front-end development courses.
 
 ## Available Scripts
 
